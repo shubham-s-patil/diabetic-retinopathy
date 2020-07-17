@@ -4,6 +4,8 @@ Data Science Mini Project
 AIM:
 Automated Detection of Diabetic Retinopathy
 
+*[Note : Refer DS Report file for better understanding]*
+
 ABSTRACT:
  Diabetic Retinopathy is one of the leading causes of blindness and eye disease in working age population of developed world. This project is an attempt towards finding an 
  automated way to detect this disease in its early phase. In this project I am using supervised learning methods to classify a given set of images into 5 levels.
